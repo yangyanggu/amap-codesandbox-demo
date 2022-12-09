@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@vuemap/vue-amap": "^0.1.11",
+    "@vuemap/vue-amap": "^1.1.19",
     "vue": "^3.2.41",
     "vue-router": "^4.1.6"
   },
